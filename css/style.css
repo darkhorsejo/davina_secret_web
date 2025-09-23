@@ -614,3 +614,8 @@ h6,
 }
 
 /*** Pricing End ***/
+
+/* testimonial */
+.border-primary-custom{   
+    border-left: 1px solid var(--primary);    
+}
