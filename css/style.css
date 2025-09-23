@@ -12,6 +12,13 @@
     /* Keeps aspect ratio while filling the space */
 }
 
+.logo {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    /* padding: 20px; */
+}
+
 .text-primary-custom {
     color: var(--primary);
 }
