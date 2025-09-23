@@ -33,6 +33,11 @@
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
+.btn-outline-primary-custom{
+    border: 1px solid var(--primary);
+    color: var(--primary);
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
